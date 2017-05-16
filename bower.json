@@ -1,0 +1,17 @@
+{
+    "name": "faustinavfbeta-googlefont",
+    "license": null,
+    "authors": [
+        null
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/faustinavfbeta-bower.git"
+    },
+    "description": " font",
+    "keywords": [
+        "font",
+        null
+    ]
+}
